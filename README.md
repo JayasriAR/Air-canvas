@@ -6,3 +6,7 @@ capture hand movements. An intangible interface is created and implemented using
 visual dynamic hand gestures to perform activities such as tool selection, canvas writing, and
 canvas clearing. Images of the hand are captured by the system’s webcam and processed in real-
 time using a single-shot detection model and media lines, allowing the machine to communicate with the user in a split second.
+
+Working:
+![image](https://github.com/JayasriAR/Aircanvas/assets/109610628/199fa2a1-237f-4225-9284-a1a59c1fd1b1)
+
